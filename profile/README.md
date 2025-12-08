@@ -37,6 +37,12 @@
         <th align="left">Чисто для удобства
     </tr>
     <tr>
+        <th>RePath
+        <th>???
+        <th><a target="_blank" href="https://github.com/Re-Minecraft/RePath">URL</a>
+        <th align="left">Система патчей.
+    </tr>
+    <tr>
         <th>SpecialSource
         <th>Finished
         <th><a target="_blank" href="https://github.com/Re-Minecraft/SpecialSource">URL</a>
