@@ -22,7 +22,13 @@
         <th>DevScripts
         <th>In dev
         <th><a target="_blank" href="https://github.com/MCRebooted/DevScripts">URL</a>
-        <th align="left">Скрипты для развертывания проекта, а так же его компиляции
+        <th align="left">Скрипты для декомпиляции/компиляции игры. Они поддерживают любые версии, для которых у вас есть маппинги в нужном формате. И для которых известны нужные библиотеки.
+    </tr>
+    <tr>
+        <th>mine-mappings
+        <th>???
+        <th><a target="_blank" href="https://github.com/MCRebooted/mine-mappings">URL</a>
+        <th align="left">Маппинги для версий, с которыми я работаю.
     </tr>
     <tr>
         <th>BuilderScripts
