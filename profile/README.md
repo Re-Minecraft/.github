@@ -74,6 +74,19 @@
     </tr>
 </table>
 
+<H2 align="center">-==[ Пк на котором ведется разработка ]==-</H2>
+
+```json
+{
+	"PC" {
+		"CPU": "Ryzen 3 1200 3.50GHz",
+		"GPU": "RX 580 2048SP (8 GB)",
+		"RAM": "2x16 (32)GB 3200Mhz",
+		"SPACE": "2TB",
+	}
+}
+```
+
 <H1 align="center">-==[ Socials ]==-</H1>
 
 <p align="center">
