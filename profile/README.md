@@ -1,11 +1,18 @@
 <img src="https://raw.githubusercontent.com/Delta-Factory/.github/refs/heads/main/profile/img/Project_Void.png" alt="Project~Void background">
 
-<H1 align="center">-== Re~Minecraft ==-</H1>
+<H1 align="center">
+	-== Re~Minecraft ==-
+	<br> <strike>(Or FantasyAxe..)</strike>
+</H1>
+
 
 <p align="center" style="font-size: 15px">
     <b>
    		Немноооооого свежий взгляд на старую версию майнкрафта - 1.5.2. 
-      <br> А точнее это попытка оживить её и привести в удовлетворительный вид..
+      	<br> А точнее это попытка оживить её и привести в удовлетворительный вид..
+		<br><br> UDP: Это переросло в более значительный проект, чем ожидалось изначально..
+		<br> Скорее всего мне придется делать отдельную игру для всего того, что я хочу запихнуть сюда..
+		<br> Так что не удивляйтесь, что разработка долго идет :>
     </b>
 </p>
 
@@ -14,19 +21,19 @@
 <table align="center">
     <tr>
         <th>Name
-        <th>Dev-Status
+        <th>Status
         <th>URL
         <th>Description
     </tr>
     <tr>
         <th>DevScripts
-        <th>In dev
+        <th>Finished
         <th><a target="_blank" href="https://github.com/MCRebooted/DevScripts">URL</a>
         <th align="left">Скрипты для декомпиляции/компиляции игры. Они поддерживают любые версии, для которых у вас есть маппинги в нужном формате. И для которых известны нужные библиотеки.
     </tr>
     <tr>
         <th>mine-mappings
-        <th>???
+        <th>In progress
         <th><a target="_blank" href="https://github.com/MCRebooted/mine-mappings">URL</a>
         <th align="left">Маппинги для версий, с которыми я работаю.
     </tr>
@@ -44,7 +51,7 @@
     </tr>
     <tr>
         <th>RePath
-        <th>???
+        <th>In progress
         <th><a target="_blank" href="https://github.com/MCRebooted/RePath">URL</a>
         <th align="left">Система патчей.
     </tr>
@@ -56,35 +63,32 @@
     </tr>
     <tr>
         <th>Dev-Road
-        <th>???
+        <th>Cannot be finished lol
         <th><a target="_blank" href="https://github.com/MCRebooted/Dev-Road">URL</a>
         <th align="left">Мне лень возиться с Trello. Легче всё добавить в один репозиторий.
     </tr>
     <tr>
-        <th>Khutor
-        <th>???
+        <th>HysteriaEngine
+        <th>In progress
         <th><a target="_blank" href="https://github.com/MCRebooted/khutor217">URL</a>
-        <th align="left">Графический движок на LWGJL-Vulkan
+        <th align="left">Графический движок на LWGJL-Vulkan 
+			<br> (Изначально предназначался для другой игры, но вроде как его можно адаптировать и под эту)
     </tr>
     <tr>
-        <th>DECADENCE
-        <th>In dev
+        <th>Decadence
+        <th>In progress
         <th><a target="_blank" href="https://github.com/MCRebooted/Decadence">URL</a>
-        <th align="left">Не совсем относится к этому проекту, но я хз, куда ещё это запихнуть.<br>Это.. Просто лобби сервер
+        <th align="left"> Серверное ядро (Подобие Bukkit, но для этого проекта)
     </tr>
 </table>
 
 <H2 align="center">-==[ Пк на котором ведется разработка ]==-</H2>
 
 ```json
-{
-	"PC" {
-		"CPU": "Ryzen 3 1200 3.50GHz",
-		"GPU": "RX 580 2048SP (8 GB)",
-		"RAM": "2x16 (32)GB 3200Mhz",
-		"SPACE": "2TB",
-	}
-}
+CPU: Ryzen 3 1200 3.50GHz
+GPU: RX 580 2048SP (8 GB)
+RAM: 2x16 (32)GB 3200Mhz
+ROM: 2TB (2x500GB, 750GB, 250GB)
 ```
 
 <H1 align="center">-==[ Socials ]==-</H1>
