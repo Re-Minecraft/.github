@@ -80,6 +80,12 @@
         <th><a target="_blank" href="https://github.com/fantasyaxe/Decadence">URL</a>
         <th align="left"> Серверное ядро (Подобие Bukkit, но для этого проекта)
     </tr>
+    <tr>
+        <th>Punch!
+        <th>In progress
+        <th><a target="_blank" href="https://github.com/fantasyaxe/Punch">URL</a>
+        <th align="left"> Аналог velocity на Rust с попыткой в защиту от ботов
+    </tr>
 </table>
 
 <H2 align="center">-==[ Пк на котором ведется разработка ]==-</H2>
